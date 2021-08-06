@@ -1,0 +1,739 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Components/f:InterRotorsConnection.cs" caret="1187" fromTop="40" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Graphics/f:InterRotorsConnections_GR.cs" caret="1319" fromTop="17" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Graphics/f:Theme.cs" caret="367" fromTop="12" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/f:Program.cs" caret="337" fromTop="14" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Graphics/f:Contact_GR.cs" caret="278" fromTop="9" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Components/f:Reflector.cs" caret="1253" fromTop="26" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Interfaces/f:IResetableMarkings.cs" caret="193" fromTop="6" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Components/f:Rotor.cs" caret="699" fromTop="0" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Graphics/f:Rotor_GR.cs" caret="1159" fromTop="12" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Graphics/f:Enigma_GR.cs" caret="1596" fromTop="18" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/f:config.ini" caret="772" fromTop="19" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Graphics/f:Reflector_GR.cs" caret="1180" fromTop="7" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Graphics/f:Plugboard_GR.cs" caret="2172" fromTop="25" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Components/f:Plugboard.cs" caret="400" fromTop="16" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Components/f:Contact.cs" caret="73" fromTop="3" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Enumerations/f:ContactState.cs" caret="137" fromTop="6" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Components/f:EnigmaMachine.cs" caret="7229" fromTop="22" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.Designer.cs" caret="20387" fromTop="16" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="14363" fromTop="9" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:HowToForm.cs" caret="583" fromTop="24" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Logistics/f:ConfigurationHolder.cs" caret="495" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.Designer.cs" caret="20387" fromTop="13" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Components/f:EnigmaMachine.cs" caret="7229" fromTop="22" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Components/f:EnigmaMachine.cs" caret="8144" fromTop="22" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="14103" fromTop="15" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="18414" fromTop="15" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="18414" fromTop="3" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="13983" fromTop="9" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.Designer.cs" caret="20387" fromTop="15" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.Designer.cs" caret="20387" fromTop="16" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.Designer.cs" caret="22708" fromTop="16" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:HowToForm.cs" caret="5928" fromTop="20" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="669" fromTop="17" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="837" fromTop="24" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="2325" fromTop="4" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="12537" fromTop="2" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="14689" fromTop="27" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="14631" fromTop="25" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="14121" fromTop="15" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="18414" fromTop="15" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="15416" fromTop="26" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="17764" fromTop="21" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:HowToForm.cs" caret="583" fromTop="20" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="15407" fromTop="18" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="14682" fromTop="18" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="15981" fromTop="21" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="17626" fromTop="23" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="18378" fromTop="24" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="16717" fromTop="9" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Frames/f:MainForm.cs" caret="18414" fromTop="9" />
+      <File id="44EFB93E-6D45-49C9-9A9A-8BE963F294D0/d:Logistics/f:ConfigurationHolder.cs" caret="495" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="49" />
+      <Item value="int" priority="62" />
+      <Item value="Contact`0" priority="17" />
+      <Item value="return" priority="20" />
+      <Item value="new" priority="28" />
+      <Item value="this" priority="13" />
+      <Item value="leftIndex" priority="2" />
+      <Item value="rightIndex" priority="1" />
+      <Item value="List" priority="11" />
+      <Item value="Rotor`0" priority="7" />
+      <Item value="List&lt;Contact&gt;" priority="5" />
+      <Item value="String`0" priority="31" />
+      <Item value="using" priority="21" />
+      <Item value="Enigma" priority="19" />
+      <Item value="Logistics" priority="4" />
+      <Item value="ConfigurationHolder`0" priority="9" />
+      <Item value="void" priority="27" />
+      <Item value="for" priority="18" />
+      <Item value="i" priority="59" />
+      <Item value="Contacts" priority="23" />
+      <Item value="Contact" priority="6" />
+      <Item value="EnigmaComponents" priority="2" />
+      <Item value="private" priority="67" />
+      <Item value="rotors" priority="16" />
+      <Item value="List&lt;Rotor&gt;" priority="0" />
+      <Item value="rotorsNumber" priority="5" />
+      <Item value="configHolder" priority="8" />
+      <Item value="Rotor" priority="2" />
+      <Item value="foreach" priority="16" />
+      <Item value="if" priority="21" />
+      <Item value="contact" priority="32" />
+      <Item value="break" priority="6" />
+      <Item value="MessageBox`0" priority="16" />
+      <Item value="rotor" priority="6" />
+      <Item value="Name" priority="0" />
+      <Item value="rotorName" priority="6" />
+      <Item value="messageBoxString" priority="2" />
+      <Item value="short" priority="0" />
+      <Item value="firstContact" priority="0" />
+      <Item value="lastContact" priority="0" />
+      <Item value="true" priority="7" />
+      <Item value="CurrentIndex" priority="6" />
+      <Item value="else" priority="12" />
+      <Item value="contactWiring" priority="2" />
+      <Item value="rightIndexContact" priority="0" />
+      <Item value="Rotor_GR`0" priority="1" />
+      <Item value="rotorParam" priority="0" />
+      <Item value="Graphics" priority="2" />
+      <Item value="PaintEventArgs`0" priority="1" />
+      <Item value="graphics" priority="14" />
+      <Item value="Graphics`0" priority="0" />
+      <Item value="graphicsParam" priority="0" />
+      <Item value="Brushes`0" priority="18" />
+      <Item value="x" priority="10" />
+      <Item value="rotor_GRs" priority="2" />
+      <Item value="List&lt;Rotor_GR&gt;" priority="1" />
+      <Item value="Rotor_GR" priority="1" />
+      <Item value="Invalidate`0" priority="12" />
+      <Item value="protected" priority="0" />
+      <Item value="Pen" priority="3" />
+      <Item value="Brush`0" priority="7" />
+      <Item value="Pen`0" priority="10" />
+      <Item value="Pens`0" priority="7" />
+      <Item value="contactSize" priority="7" />
+      <Item value="contactSpace" priority="4" />
+      <Item value="Int32`0" priority="6" />
+      <Item value="ellipsePen" priority="0" />
+      <Item value="rotorWidth" priority="9" />
+      <Item value="contactPen" priority="5" />
+      <Item value="referencedRotor" priority="9" />
+      <Item value="Point`0" priority="1" />
+      <Item value="Point" priority="0" />
+      <Item value="contactA" priority="0" />
+      <Item value="contactB" priority="0" />
+      <Item value="FontFamily`0" priority="3" />
+      <Item value="ellipseBrush" priority="3" />
+      <Item value="float" priority="0" />
+      <Item value="Font" priority="2" />
+      <Item value="distanceBetweenRotors" priority="11" />
+      <Item value="ctx" priority="0" />
+      <Item value="InterRotorsConnection`0" priority="5" />
+      <Item value="Dictionary&lt;string,List&lt;Contact&gt;&gt;" priority="0" />
+      <Item value="numberOfRotors" priority="3" />
+      <Item value="InterRotorsConnection" priority="0" />
+      <Item value="InterRotorsConnections_GR`0" priority="2" />
+      <Item value="Components" priority="3" />
+      <Item value="connection" priority="0" />
+      <Item value="referencedConnection" priority="2" />
+      <Item value="var" priority="5" />
+      <Item value="InterRotorsConnections_GR" priority="1" />
+      <Item value="rotorsConnections" priority="1" />
+      <Item value="rotorsConnections_GR" priority="0" />
+      <Item value="multiplier" priority="2" />
+      <Item value="Reflector`0" priority="6" />
+      <Item value="reflector" priority="3" />
+      <Item value="Reflector" priority="2" />
+      <Item value="referencedReflector" priority="3" />
+      <Item value="Reflector_GR" priority="1" />
+      <Item value="reflector_GR" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="Math`0" priority="1" />
+      <Item value="arcY" priority="2" />
+      <Item value="y" priority="0" />
+      <Item value="arcX" priority="0" />
+      <Item value="arcHeight" priority="1" />
+      <Item value="StepIndex" priority="3" />
+      <Item value="Entryboard_GR`0" priority="2" />
+      <Item value="Entryboard_GR" priority="1" />
+      <Item value="entryBoard_GR" priority="0" />
+      <Item value="ASCIIEncoding`0" priority="0" />
+      <Item value="Convert`0" priority="10" />
+      <Item value="Reflector_GR`0" priority="0" />
+      <Item value="Enigma_GR`0" priority="1" />
+      <Item value="interRotorsConnection" priority="0" />
+      <Item value="rotorsParam" priority="0" />
+      <Item value="connections" priority="1" />
+      <Item value="interRotorsConnectionParam" priority="0" />
+      <Item value="reflectorParam" priority="0" />
+      <Item value="entryBoard" priority="1" />
+      <Item value="rotorGr" priority="0" />
+      <Item value="false" priority="8" />
+      <Item value="Enigma_GR" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="enigmaX" priority="1" />
+      <Item value="enigmaY" priority="0" />
+      <Item value="ellipseBrushParam" priority="2" />
+      <Item value="stepEllipseBrush" priority="2" />
+      <Item value="stepEllipseBrushParam" priority="0" />
+      <Item value="contactPenParam" priority="0" />
+      <Item value="Font`0" priority="5" />
+      <Item value="textBrush" priority="5" />
+      <Item value="textBrushParam" priority="1" />
+      <Item value="labelFont" priority="4" />
+      <Item value="labelFontParam" priority="2" />
+      <Item value="Label`0" priority="0" />
+      <Item value="contactEllipseBrush" priority="3" />
+      <Item value="contactEllipseOutline" priority="0" />
+      <Item value="contactBody" priority="3" />
+      <Item value="ellipseOutlinePen" priority="1" />
+      <Item value="object" priority="1" />
+      <Item value="EventArgs`0" priority="2" />
+      <Item value="newButton" priority="7" />
+      <Item value="EventHandler" priority="0" />
+      <Item value="GenericHelloButtonClick`0" priority="0" />
+      <Item value="MainForm`0" priority="0" />
+      <Item value="Random`0" priority="2" />
+      <Item value="sender" priority="3" />
+      <Item value="Button`0" priority="0" />
+      <Item value="button" priority="2" />
+      <Item value="rotorNumber" priority="14" />
+      <Item value="AddRotorControlls`0" priority="0" />
+      <Item value="inputString" priority="14" />
+      <Item value="outputString" priority="6" />
+      <Item value="keyValue" priority="3" />
+      <Item value="inputTextArea" priority="3" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="EntryPointNotFoundException`0" priority="0" />
+      <Item value="Enigma`0" priority="1" />
+      <Item value="NumberOfRotors" priority="0" />
+      <Item value="numberOfRotorsParam" priority="0" />
+      <Item value="Rotors" priority="9" />
+      <Item value="Connections" priority="4" />
+      <Item value="enigmaMachine" priority="29" />
+      <Item value="enigmaMachineParam" priority="3" />
+      <Item value="Delegate`0" priority="0" />
+      <Item value="direction" priority="1" />
+      <Item value="InitializeEnigmaMachine`0" priority="2" />
+      <Item value="Object`0" priority="1" />
+      <Item value="buttonName" priority="0" />
+      <Item value="null" priority="2" />
+      <Item value="Controls" priority="3" />
+      <Item value="First`1" priority="4" />
+      <Item value="ForeignKeyConstraint`0" priority="0" />
+      <Item value="control" priority="4" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="UICues`0" priority="0" />
+      <Item value="Control`0" priority="0" />
+      <Item value="item" priority="2" />
+      <Item value="topMenuBar" priority="1" />
+      <Item value="CheckState`0" priority="0" />
+      <Item value="bool" priority="3" />
+      <Item value="RecursiveAdvanceRotors`0" priority="1" />
+      <Item value="reversedMode" priority="3" />
+      <Item value="outputTextArea" priority="3" />
+      <Item value="Enumerations" priority="4" />
+      <Item value="ContactState`0" priority="5" />
+      <Item value="State" priority="0" />
+      <Item value="NORMAL" priority="7" />
+      <Item value="contactLRPen" priority="1" />
+      <Item value="contactLRPenParam" priority="1" />
+      <Item value="contactRLPen" priority="2" />
+      <Item value="contactRLPenParam" priority="1" />
+      <Item value="switch" priority="3" />
+      <Item value="case" priority="3" />
+      <Item value="drawingPen" priority="2" />
+      <Item value="default" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="Contact_GR`0" priority="1" />
+      <Item value="contactLRBody" priority="2" />
+      <Item value="contactRLBody" priority="0" />
+      <Item value="inputKeyValue" priority="6" />
+      <Item value="PerformRecursiveCurrentFlow`0" priority="2" />
+      <Item value="currentRotorNumber" priority="0" />
+      <Item value="contactEntryIndex" priority="6" />
+      <Item value="selectedContact" priority="8" />
+      <Item value="encryptedValue" priority="3" />
+      <Item value="leftToRight" priority="0" />
+      <Item value="contactElectrifiedPen" priority="0" />
+      <Item value="markedContacts" priority="6" />
+      <Item value="markedContact" priority="4" />
+      <Item value="Interfaces" priority="3" />
+      <Item value="IResetableMarkings`0" priority="4" />
+      <Item value="string" priority="0" />
+      <Item value="ResetInputOutputFields`0" priority="3" />
+      <Item value="Theme`0" priority="11" />
+      <Item value="theme" priority="48" />
+      <Item value="themeParam" priority="3" />
+      <Item value="Theme" priority="0" />
+      <Item value="Text" priority="0" />
+      <Item value="drawingBrush" priority="4" />
+      <Item value="MarkedContact" priority="0" />
+      <Item value="InputContactBlob" priority="2" />
+      <Item value="specialCaseBrush" priority="2" />
+      <Item value="OutputContactBlob" priority="2" />
+      <Item value="ContactBlobs" priority="1" />
+      <Item value="List&lt;int&gt;" priority="1" />
+      <Item value="MarkedBlobs" priority="0" />
+      <Item value="MarkedContacts" priority="1" />
+      <Item value="EntryBoard`0" priority="1" />
+      <Item value="referencedEBParam" priority="1" />
+      <Item value="referencedEB" priority="1" />
+      <Item value="LEFT_TO_RIGHT" priority="2" />
+      <Item value="EntryBoard" priority="4" />
+      <Item value="encryptedVale" priority="0" />
+      <Item value="FontStyle`0" priority="0" />
+      <Item value="Bold" priority="0" />
+      <Item value="specialCaseFont" priority="1" />
+      <Item value="referencedContact" priority="0" />
+      <Item value="leftDrawingBrush" priority="0" />
+      <Item value="rightDrawingBrush" priority="0" />
+      <Item value="MachineKeyForm`0" priority="1" />
+      <Item value="MachineKeyForm" priority="2" />
+      <Item value="base" priority="1" />
+      <Item value="allowKeyModification" priority="0" />
+      <Item value="keyTextArea" priority="1" />
+      <Item value="machineKey" priority="0" />
+      <Item value="readKeyForm" priority="2" />
+      <Item value="enterKeyForm" priority="1" />
+      <Item value="key" priority="2" />
+      <Item value="TextBox`0" priority="2" />
+      <Item value="TextBox" priority="0" />
+      <Item value="inputBox" priority="4" />
+      <Item value="Center" priority="0" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="UpdateRotorInputAreas`0" priority="2" />
+      <Item value="result" priority="4" />
+      <Item value="KeyEventArgs`0" priority="0" />
+      <Item value="textBox" priority="0" />
+      <Item value="numberOfSteps" priority="0" />
+      <Item value="TurnUp`0" priority="0" />
+      <Item value="desiredIndex" priority="1" />
+      <Item value="currentIndex" priority="0" />
+      <Item value="turnSteps" priority="0" />
+      <Item value="stepCounter" priority="1" />
+      <Item value="designatedRotor" priority="0" />
+      <Item value="KeyEventHandler" priority="0" />
+      <Item value="OnSystemColorsChanged`0" priority="0" />
+      <Item value="Color`0" priority="2" />
+      <Item value="pos" priority="0" />
+      <Item value="indexValue" priority="0" />
+      <Item value="GetEncrytedKeyValue`0" priority="0" />
+      <Item value="IDataObject`0" priority="0" />
+      <Item value="Clipboard`0" priority="1" />
+      <Item value="clipboardContent" priority="2" />
+      <Item value="IFeatureSupport`0" priority="0" />
+      <Item value="Type`0" priority="1" />
+      <Item value="DataFormats`0" priority="2" />
+      <Item value="encryptedMessage" priority="2" />
+      <Item value="message" priority="5" />
+      <Item value="newC" priority="0" />
+      <Item value="Message`0" priority="0" />
+      <Item value="UpdateInputOutputFields`0" priority="0" />
+      <Item value="AlphabetOffset" priority="2" />
+      <Item value="confNumber" priority="0" />
+      <Item value="index" priority="0" />
+      <Item value="ResetEverything`0" priority="0" />
+      <Item value="index1" priority="6" />
+      <Item value="index2" priority="3" />
+      <Item value="throw" priority="0" />
+      <Item value="referencedPB" priority="0" />
+      <Item value="Random" priority="0" />
+      <Item value="randomGenerator" priority="1" />
+      <Item value="while" priority="0" />
+      <Item value="Plugboard" priority="1" />
+      <Item value="activeBrush" priority="0" />
+      <Item value="Plugboard`0" priority="1" />
+      <Item value="PlugboardForm`0" priority="0" />
+      <Item value="PlugboardForm" priority="0" />
+      <Item value="plugboadForm" priority="0" />
+      <Item value="plugboard" priority="0" />
+      <Item value="referencedPlugboard" priority="2" />
+      <Item value="plugsTreeView" priority="1" />
+      <Item value="index1Combo" priority="2" />
+      <Item value="index2Combo" priority="1" />
+      <Item value="informationTextBox" priority="0" />
+      <Item value="HowToForm`0" priority="0" />
+      <Item value="HowToForm" priority="0" />
+      <Item value="howToForm" priority="2" />
+      <Item value="namespace" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.EnigmaComponents.Contact">
+      <Item value="LeftIndex" priority="8" />
+      <Item value="RightIndex" priority="5" />
+      <Item value="Clone`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.EnigmaComponents.Rotor">
+      <Item value="Contacts" priority="2" />
+      <Item value="GetLeftIndex`0" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="TurnUp`0" priority="1" />
+      <Item value="TurnDown`0" priority="1" />
+      <Item value="CurrentIndex" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Enigma.Logistics.ConfigurationHolder">
+      <Item value="GetInstance`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Logistics.ConfigurationHolder">
+      <Item value="Settings" priority="11" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="10" />
+      <Item value="First`1" priority="5" />
+      <Item value="Count" priority="1" />
+      <Item value="Clear`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="13" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="17" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+      <Item value="Concat`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Substring`0" priority="7" />
+      <Item value="ToCharArray`0" priority="1" />
+      <Item value="Concat`1" priority="0" />
+      <Item value="Length" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="0" />
+      <Item value="ToChar`0" priority="11" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Graphics.Rotor_GR">
+      <Item value="rotor" priority="0" />
+      <Item value="graphics" priority="0" />
+      <Item value="DrawRotor`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Graphics">
+      <Item value="FillEllipse`0" priority="0" />
+      <Item value="DrawEllipse`0" priority="0" />
+      <Item value="DrawLine`0" priority="0" />
+      <Item value="DrawString`0" priority="1" />
+      <Item value="FillRectangle`0" priority="1" />
+      <Item value="DrawCurve`0" priority="0" />
+      <Item value="DrawArc`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Brushes">
+      <Item value="Yellow" priority="2" />
+      <Item value="Black" priority="6" />
+      <Item value="BlueViolet" priority="1" />
+      <Item value="Gray" priority="1" />
+      <Item value="DarkRed" priority="2" />
+      <Item value="LightGray" priority="4" />
+      <Item value="Fuchsia" priority="2" />
+      <Item value="DarkCyan" priority="0" />
+      <Item value="Cyan" priority="0" />
+      <Item value="White" priority="2" />
+      <Item value="DarkGray" priority="7" />
+      <Item value="Navy" priority="0" />
+      <Item value="Green" priority="0" />
+      <Item value="LightBlue" priority="1" />
+      <Item value="LightGoldenrodYellow" priority="0" />
+      <Item value="Red" priority="2" />
+      <Item value="LightGreen" priority="0" />
+      <Item value="Blue" priority="1" />
+      <Item value="PowderBlue" priority="0" />
+      <Item value="DarkGreen" priority="0" />
+      <Item value="PaleGreen" priority="0" />
+      <Item value="LightSteelBlue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PaintEventArgs">
+      <Item value="Graphics" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Pens">
+      <Item value="Black" priority="4" />
+      <Item value="LightGray" priority="1" />
+      <Item value="DarkGray" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.FontFamily">
+      <Item value="GenericSansSerif" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="1" />
+      <Item value="Keys" priority="0" />
+      <Item value="Values" priority="4" />
+      <Item value="Count" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Graphics.InterRotorsConnections_GR">
+      <Item value="referencedConnection" priority="0" />
+      <Item value="DrawInterRotorsConnection`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Components.InterRotorsConnection">
+      <Item value="Contacts" priority="3" />
+      <Item value="ResetContactMarkings`0" priority="0" />
+      <Item value="MarkContact`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+KeyCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Graphics.Reflector_GR">
+      <Item value="DrawReflector`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Components.Reflector">
+      <Item value="Contacts" priority="0" />
+      <Item value="markedContact" priority="0" />
+      <Item value="MarkContact`0" priority="0" />
+      <Item value="ResetContactMarkings`0" priority="0" />
+      <Item value="MarkedContact" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Components.Contact">
+      <Item value="LeftIndex" priority="20" />
+      <Item value="RightIndex" priority="19" />
+      <Item value="State" priority="15" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Min`0" priority="0" />
+      <Item value="Round`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Components.Rotor">
+      <Item value="StepIndex" priority="2" />
+      <Item value="CurrentIndex" priority="5" />
+      <Item value="TurnUp`0" priority="4" />
+      <Item value="TurnDown`0" priority="3" />
+      <Item value="Contacts" priority="4" />
+      <Item value="MarkContact`0" priority="0" />
+      <Item value="ResetContactMarkings`0" priority="0" />
+      <Item value="AdvanceAlphabet`0" priority="0" />
+      <Item value="WithdrawAlphabet`0" priority="0" />
+      <Item value="ConfigNumber" priority="1" />
+      <Item value="AlphabetOffset" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Graphics.Entryboard_GR">
+      <Item value="DrawReflector`0" priority="0" />
+      <Item value="DrawEntryboard`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Char">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.ASCIIEncoding">
+      <Item value="ASCII" priority="0" />
+      <Item value="Convert`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Graphics.Enigma_GR">
+      <Item value="DrawEnigma`0" priority="0" />
+      <Item value="theme" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Top" priority="0" />
+      <Item value="Left" priority="0" />
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+      <Item value="Text" priority="0" />
+      <Item value="Click" priority="0" />
+      <Item value="Name" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Enigma.MainForm">
+      <Item value="ControlCollection`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.MainForm">
+      <Item value="AddButton`0" priority="0" />
+      <Item value="Controls" priority="4" />
+      <Item value="MaximumSize" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Add`0" priority="0" />
+      <Item value="Remove`0" priority="1" />
+      <Item value="Find`0" priority="3" />
+      <Item value="Cast`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyPressEventArgs">
+      <Item value="KeyChar" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="9" />
+      <Item value="ReadOnly" priority="1" />
+      <Item value="Name" priority="1" />
+      <Item value="Font" priority="1" />
+      <Item value="TextAlign" priority="1" />
+      <Item value="KeyDown" priority="0" />
+      <Item value="BackColor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyEventArgs">
+      <Item value="KeyValue" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Components.EnigmaMachine">
+      <Item value="Rotors" priority="8" />
+      <Item value="Connections" priority="0" />
+      <Item value="Reflector" priority="0" />
+      <Item value="NumberOfRotors" priority="4" />
+      <Item value="AdvanceRotors`0" priority="2" />
+      <Item value="WithdrawRotors`0" priority="1" />
+      <Item value="GetEncrytedKeyValue`0" priority="0" />
+      <Item value="ResetContactMarkings`0" priority="4" />
+      <Item value="EntryBoard" priority="0" />
+      <Item value="GenerateMachineKey`0" priority="1" />
+      <Item value="GetEncryptedString`0" priority="2" />
+      <Item value="Ro" priority="0" />
+      <Item value="Plugboard" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType`0" priority="0" />
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.MenuStrip">
+      <Item value="Items" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripMenuItem">
+      <Item value="Checked" priority="4" />
+      <Item value="CheckState" priority="0" />
+      <Item value="Enabled" priority="0" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.CheckState">
+      <Item value="Checked" priority="0" />
+      <Item value="Unchecked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripItemCollection">
+      <Item value="Find`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripItem">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Enigma.Enumerations.ContactState">
+      <Item value="LEFT_TO_RIGHT" priority="5" />
+      <Item value="RIGHT_TO_LEFT" priority="8" />
+      <Item value="NORMAL" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Enigma.Graphics.Contact_GR">
+      <Item value="DrawContact`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Graphics.Theme">
+      <Item value="ContactBodyLR" priority="2" />
+      <Item value="ContactBodyRL" priority="1" />
+      <Item value="ContactBody" priority="3" />
+      <Item value="SmallLabel" priority="3" />
+      <Item value="Text" priority="2" />
+      <Item value="ContactBlob" priority="7" />
+      <Item value="ContactBlobOutline" priority="4" />
+      <Item value="BigLabel" priority="1" />
+      <Item value="ContactBlolStep" priority="0" />
+      <Item value="ContactBodyReflected" priority="1" />
+      <Item value="ContactBlobStep" priority="1" />
+      <Item value="ContactBlobLR" priority="2" />
+      <Item value="ContactBlobRL" priority="2" />
+      <Item value="ContactBlobReflected" priority="0" />
+      <Item value="MediumBoldLabel" priority="0" />
+      <Item value="SmallBoldLabel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Components.EntryBoard">
+      <Item value="Contacts" priority="1" />
+      <Item value="ResetContactMarkings`0" priority="0" />
+      <Item value="MarkContact`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.FontStyle">
+      <Item value="Bold" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Frames.MachineKeyForm">
+      <Item value="Close`0" priority="0" />
+      <Item value="Text" priority="0" />
+      <Item value="Show`0" priority="0" />
+      <Item value="Dispose`0" priority="0" />
+      <Item value="Visible" priority="0" />
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="Controls" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control">
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="White" priority="0" />
+      <Item value="DeepSkyBlue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Clipboard">
+      <Item value="GetDataObject`0" priority="0" />
+      <Item value="SetText`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.IDataObject">
+      <Item value="GetData`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DataFormats">
+      <Item value="Text" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Color">
+      <Item value="G" priority="0" />
+      <Item value="R" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Frames.MainForm">
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Components.Plugboard">
+      <Item value="Contacts" priority="2" />
+      <Item value="AddPlug`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Frames.PlugboardForm">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeView">
+      <Item value="Nodes" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeNodeCollection">
+      <Item value="Add`0" priority="0" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Items" priority="1" />
+      <Item value="SelectedItem" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox+ObjectCollection">
+      <Item value="Clear`0" priority="0" />
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Enigma.Frames.HowToForm">
+      <Item value="Visible" priority="1" />
+      <Item value="appear`0" priority="1" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

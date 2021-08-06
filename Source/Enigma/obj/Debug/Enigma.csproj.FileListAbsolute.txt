@@ -1,0 +1,9 @@
+D:\Workspaces\VS2008Workspace\Enigma\Enigma\bin\Debug\Enigma.exe
+D:\Workspaces\VS2008Workspace\Enigma\Enigma\bin\Debug\Enigma.pdb
+D:\Workspaces\VS2008Workspace\Enigma\Enigma\obj\Debug\ResolveAssemblyReference.cache
+D:\Workspaces\VS2008Workspace\Enigma\Enigma\obj\Debug\Enigma.Properties.Resources.resources
+D:\Workspaces\VS2008Workspace\Enigma\Enigma\obj\Debug\Enigma.csproj.GenerateResource.Cache
+D:\Workspaces\VS2008Workspace\Enigma\Enigma\obj\Debug\Enigma.exe
+D:\Workspaces\VS2008Workspace\Enigma\Enigma\obj\Debug\Enigma.pdb
+D:\Workspaces\VS2008Workspace\Enigma\Enigma\obj\Debug\Enigma.Frames.MainForm.resources
+D:\Workspaces\VS2008Workspace\Enigma\Enigma\obj\Debug\Enigma.Frames.HowToForm.resources
